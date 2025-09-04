@@ -15,6 +15,12 @@ Preferably, you can download StreamFlow by cloning the [Git](https://github.com/
 
 StreamFlow works out of the box with [Python](https://www.python.org/download/) 
 
+instaling library / module?
+
+    pip -r install requirements.txt
+
+wait until instaling library / module
+
 Usage
 ----
 
@@ -22,9 +28,9 @@ To get a list of basic options and switches use:
 
     python sqlmap.py -h
 
-To get a list of all options and switches use:
+Example:
 
-    python sqlmap.py -hh
+    python StreamFlow.py https:example.com -t 100 -d 100 -to 10 -o example.json
 
 You can find a sample run [here](https://asciinema.org/a/46601).
 To get an overview of sqlmap capabilities, a list of supported features, and a description of all options and switches, along with examples, you are advised to consult the [user's manual](https://github.com/sqlmapproject/sqlmap/wiki/Usage).
