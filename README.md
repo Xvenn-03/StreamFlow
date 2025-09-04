@@ -32,6 +32,16 @@ Example:
 
     python StreamFlow.py https:example.com -t 100 -d 100 -to 10 -o example.json
 
-You can find a sample run [here](https://asciinema.org/a/46601).
-To get an overview of sqlmap capabilities, a list of supported features, and a description of all options and switches, along with examples, you are advised to consult the [user's manual](https://github.com/sqlmapproject/sqlmap/wiki/Usage).
- 
+Havefun and stay safe
+
+Links
+----
+
+* Homepage: https://sqlmap.org
+* Download: [.tar.gz](https://github.com/Xvenn-03/StreamFlow) or [.zip](https://github.com/Xvenn-03/StreamFlow)
+
+Translations
+----
+
+* [Indonesian](https://github.com/Xvenn-03/StreamFlow/translations/README-id-ID.md)
+* [Russian](https://github.com/Xvenn-03/StreamFlow/translations/README-ru-RU.md)
