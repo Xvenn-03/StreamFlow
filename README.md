@@ -6,8 +6,7 @@ deskripsi.
 Screenshots
 ----
 
-![Screenshot](https://github.com/Xvenn-03/StreamFlow/Screenshot_SttreaamFlow.jpg)
-
+![Screenshot](https://github.com/Xvenn-03/StreamFlow/blob/main/Screenshot_StreamFlow.jpg)
 Installation
 ----
 
