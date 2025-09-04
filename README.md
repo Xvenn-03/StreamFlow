@@ -39,9 +39,3 @@ Links
 
 * Homepage: https://sqlmap.org
 * Download: [.tar.gz](https://github.com/Xvenn-03/StreamFlow) or [.zip](https://github.com/Xvenn-03/StreamFlow)
-
-Translations
-----
-
-* [Indonesian](https://github.com/Xvenn-03/StreamFlow/translations/README-id-ID.md)
-* [Russian](https://github.com/Xvenn-03/StreamFlow/translations/README-ru-RU.md)
