@@ -13,7 +13,7 @@ Preferably, you can download StreamFlow by cloning the [Git](https://github.com/
 
     git clone --depth 1 https://github.com/Xvenn-03/StreamFlow
 
-sqlmap works out of the box with [Python](https://www.python.org/download/) version **2.6**, **2.7** and **3.x** on any platform.
+StreamFlow works out of the box with [Python](https://www.python.org/download/) 
 
 Usage
 ----
