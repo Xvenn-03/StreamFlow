@@ -6,7 +6,7 @@ deskripsi.
 Screenshots
 ----
 
-![Screenshot](https://raw.github.com/wiki/sqlmapproject/sqlmap/images/sqlmap_screenshot.png)
+![Screenshot](https://github.com/Xvenn-03/StreamFlow/Screenshot_SttreaamFlow.jpg)
 
 Installation
 ----
