@@ -26,7 +26,7 @@ Usage
 
 To get a list of basic options and switches use:
 
-    python sqlmap.py -h
+    python StreamFlow.py -h
 
 Example:
 
