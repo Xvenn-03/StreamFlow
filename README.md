@@ -33,9 +33,3 @@ Example:
     python StreamFlow.py https:example.com -t 100 -d 100 -to 10 -o example.json
 
 Havefun and stay safe
-
-Links
-----
-
-* Homepage: https://sqlmap.org
-* Download: [.tar.gz](https://github.com/Xvenn-03/StreamFlow) or [.zip](https://github.com/Xvenn-03/StreamFlow)
