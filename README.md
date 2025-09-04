@@ -2,9 +2,6 @@
 
 StreamFlow is a script that tests a server or web by overloading or flooding a website or target, this can lead to crime and I will not be responsible if someone uses it for crime.
 
-( [![Python 2.6|2.7|3.x](https://img.shields.io/badge/python-2.6|2.7|3.x-yellow.svg)](https://www.python.org/) 
-description.
-
 Screenshots
 ----
 
