@@ -9,9 +9,9 @@ Screenshots
 Installation
 ----
 
-Preferably, you can download StreamFlow by cloning the [Git](https://github.com/Xvenn-03/StreamFlow) repository:
+Preferably, you can download StreamFlow by cloning the [Git](https://github.com/Xvenn-03/StreamFlow.git) repository:
 
-    git clone https://github.com/Xvenn-03/StreamFlow
+    git clone https://github.com/Xvenn-03/StreamFlow.git
 
 StreamFlow works out of the box with [Python](https://www.python.org/download/) 
 
